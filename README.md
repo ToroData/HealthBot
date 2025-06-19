@@ -16,6 +16,12 @@ HealthBot is an interactive conversational agent designed to support patient edu
 - Interactive, step-by-step flow within a Jupyter Notebook
 - Optional restart of the flow with related medical topics
 
+## Jupyter Notebook Interface
+
+The application runs entirely within a Jupyter Notebook, with Markdown-enhanced interaction, streaming responses, and structured outputs.
+
+![Interface](IMG/interface.png)
+
 ## Requirements
 
 - Python 3.9 or later
